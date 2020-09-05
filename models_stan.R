@@ -3,7 +3,7 @@
 # Implementation in STAN
 # Code for the manuscript:
 # Modelling COVID-19 With More Disaggregation and Less Nomothetic Parameterisation: UK and India Examples
-# Olsen et al.
+# By Wendy Olsen (corresponding author), Manasi Bera, Jihye Kim, Arkadiusz Wiśniowski, and Purva Yadav
 #########################################################
 # Authors:
 # Jihye Kim, Arkadiusz Wisniowski

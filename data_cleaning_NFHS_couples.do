@@ -1,6 +1,6 @@
 * This code processes the individual-level data from the NFHS to be used in the model
-* Olsen et al. (2020) Modelling COVID-19 With More Disaggregation and Less Nomothetic Parameterisation: UK and India Examples
-* 
+* Modelling COVID-19 With More Disaggregation and Less Nomothetic Parameterisation: UK and India Examples (2020)
+* By Wendy Olsen (corresponding author), Manasi Bera, Jihye Kim, Arkadiusz Wiśniowski, and Purva Yadav
 * 
 
 use "IACR74FL.DTA", clear

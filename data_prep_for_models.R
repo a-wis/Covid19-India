@@ -3,9 +3,9 @@
 # Implementation in STAN
 # Code for the manuscript:
 # Modelling COVID-19 With More Disaggregation and Less Nomothetic Parameterisation: UK and India Examples
-# Olsen et al.
+# By Wendy Olsen (corresponding author), Manasi Bera, Jihye Kim, Arkadiusz Wiśniowski, and Purva Yadav
 #########################################################
-# Authors:
+# Code Authors:
 # Jihye Kim
 # Social Statistics Department, UOM
 
@@ -65,7 +65,7 @@ length(unique(newdata_total$district_no))
 pop <- pop0 %>% mutate(pop=TOT_P_2020)
 pop <- subset(pop, select=c(district_no, pop, growth))
 
-df0 <- data0 %>% mutate(state=�..state)%>%
+df0 <- data0 %>% mutate(state=ï..state)%>%
   group_by(state, state_no, district, district_no) %>% 
   summarise_at(vars(cases, deaths), sum)
 df0$district_id <- 1:345

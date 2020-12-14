@@ -10,7 +10,7 @@ Details of methods can be found in manuscript:
 
 **Modelling COVID-19 With More Disaggregation and Less Nomothetic Parameterisation: UK and India Examples**
 
-By Wendy Olsen (corresponding author), Manasi Bera, Jihye Kim, Arkadiusz Wiśniowski, and Purva Yadav
+By Wendy Olsen (corresponding author), Manasi Bera, Amaresh Dubey, Jihye Kim, Arkadiusz Wiśniowski, and Purva Yadav
 
 
 
